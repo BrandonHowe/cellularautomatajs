@@ -1,4 +1,3 @@
-/*write code below*/
 const rule30 = {
   0: 0,
   1: 0,
